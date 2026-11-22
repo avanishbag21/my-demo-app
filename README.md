@@ -1,4 +1,6 @@
 # my-demo-app
 This is my first code.
-the writer is Avanish baghel
+<br>
+Author is Avanish baghel
+<br>
 my instagram account is mr_avanish_.09
